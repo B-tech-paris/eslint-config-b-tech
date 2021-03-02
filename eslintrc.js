@@ -16,7 +16,7 @@ module.exports = {
     sourceType: "module"
   },
   plugins: ["react", "react-hooks"],
-  ignorePatterns: [".eslintrc.js"],
+  ignorePatterns: ["eslintrc.js"],
   rules: {
     "prefer-destructuring": "off",
     "no-nested-ternary": "off",
