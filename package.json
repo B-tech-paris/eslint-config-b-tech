@@ -24,7 +24,7 @@
     "eslint-plugin-react-hooks": "^4.2.0"
   },
   "peerDependencies": {
-    "eslint": "^7.21.0"
+    "eslint": "^8.9.0"
   },
   "author": "Jean-Baptiste BLONDEAU",
   "license": "MIT",
